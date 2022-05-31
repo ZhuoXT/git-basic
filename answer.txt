@@ -1,0 +1,1 @@
+Git has three areas, a working directory, a staging area and the repository itself. The 'add' command  can move some changed files from the working directory to the staging area. The 'commit' command  can move files from staging to the repository and record the commit message. And the 'push' command is used to upload the local branch version to the remote repository and merge it.
